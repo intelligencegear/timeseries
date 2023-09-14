@@ -1,0 +1,6 @@
+pandas
+gluonts
+matplotlib
+mxnet
+mxnet-mkl==1.6.0 
+numpy==1.23.1
